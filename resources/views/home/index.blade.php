@@ -112,3 +112,8 @@
   </div>
 </section>
 @endsection
+@section('js')
+$(function() {
+  var onHomepage = 1;
+});
+@endsection
