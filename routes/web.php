@@ -15,4 +15,8 @@ Route::get('/', function () {
     return view('home.index');
 });
 
+Route::get('/login', function () {
+    return view('login');
+});
+
 Route::post('/subscribes', 'SubscribesController@store');
