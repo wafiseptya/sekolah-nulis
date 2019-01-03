@@ -22,12 +22,12 @@
         <h1 class="text-center">Masuk</h1>
         <hr>
       </div>
-      <div class="col-md-10 mx-auto mb-3">
+      <div class="col-md-10 mx-auto">
         <div class="row justify-content-center">
-          <div class="col-md-auto">
+          <div class="col-md-auto mb-3">
               <button class="btn btn-logwith btn-fb" type="submit"><i class="fa fa-lg fa-facebook mr-3"></i>Masuk dengan Facebook</button>
           </div>
-          <div class="col-md-auto">
+          <div class="col-md-auto mb-3">
               <button class="btn btn-logwith btn-primary" type="submit"><i class="fa fa-lg fa-google mr-3"></i>Masuk dengan Google</button>
           </div>
         </div>

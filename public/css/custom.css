@@ -32,3 +32,7 @@ body {
   padding: 0.5rem;
   text-align: center;
 }
+.smaller-login {
+  font-size: 0.75rem;
+  padding: 0.5rem 0.75rem;
+}
