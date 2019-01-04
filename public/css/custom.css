@@ -36,3 +36,16 @@ body {
   font-size: 0.75rem;
   padding: 0.5rem 0.75rem;
 }
+.sm-label {
+  padding-top: 1.15rem;
+  font-size: 1.25rem!important;
+}
+.corner {
+  margin-left: 0.5rem;
+  position: absolute;
+  font-size: 0.9rem;
+  color: #848484;
+}
+.smaller-text {
+  font-size: 0.8rem;
+}
