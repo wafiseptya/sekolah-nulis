@@ -13,6 +13,9 @@
           <a class="nav-link js-scroll-trigger" href="#services">Layanan</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#testimoni">Testimoni</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#subscribe">Langganan</a>
         </li>
         <li class="nav-item">

@@ -47,5 +47,14 @@ body {
   color: #848484;
 }
 .smaller-text {
-  font-size: 0.8rem;
+  font-size: 0.8rem!important;
+}
+.bigger-text {
+  font-size: 3rem!important;
+}
+.bold-text {
+  font-weight: 600;
+}
+.orange {
+  color: #f05f40!important;
 }
