@@ -19,6 +19,12 @@ body {
   border-color: #3b5998;
   color: #fff;
 }
+.btn-course {
+  text-transform: none;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+}
 .thin-hline {
   max-width: 100%!important;
   margin-top: auto;
@@ -57,4 +63,123 @@ body {
 }
 .orange {
   color: #f05f40!important;
+}
+.content-page {
+  margin-top : 4rem;
+  padding: 0;
+}
+.bl-header {
+  background-color: #32292F;
+  color: #fff;
+  text-align: center;
+  padding: 2em 4em 1em 4em;
+}
+.orn-border {
+  border: 4px solid #f05f40;
+  border-radius: 0.55rem;
+}
+.search-btn {
+  background-color: #f05f40;
+  color:#fff;
+  padding: 0 1.5em;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.search-btn:focus {
+  border: none;
+  outline: none;
+  box-shadow: none!important;
+}
+
+.search-bar {
+  font-size: 1.25em;
+  padding:0;
+  width: 100%;
+  display:flex;
+  flex-direction:row;
+}
+.search-bar input {
+  flex-grow:2;
+  border:none;
+}
+.search-bar input:focus {
+  flex-grow:2;
+  outline: none;
+}
+.img {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+
+}
+.genre-bar {
+  font-size: 1.25em;
+  width: 100%;
+  outline: none;
+}
+.reg {
+  text-decoration: none!important;
+}
+.c-bl {
+  color: black;
+  font-weight: 600!important;
+}
+.course-card {
+  padding: 1em;
+}
+.course-view {
+  padding: 1em 0;
+}
+.full-hr {
+  min-width: 100%;
+  border-width: 3px;
+  border-color: #f05f40;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+.course-text {
+  margin-bottom: 0.35rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.video-wrap iframe {
+  width: 100%;
+  height: calc(55vw / 1.77);
+}
+.sidebar ul li {
+  background-color: #f05f40;
+  color: #fff !important;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 0.5em;
+  margin-bottom: 0.5em;
+}
+.sidebar ul li:hover {
+  background-color: #32292F;
+}
+
+.sidebar ul li.active {
+  background-color: #f05f40!important;
+}
+
+.sidebar ul li a {
+  display: flex;
+  padding: 0.5em 1em;
+  align-items: center;
+  color: #fff !important;
+}
+.sidebar ul li a:hover {
+  text-decoration: none;
+}
+.sidebar ul li a p {
+  margin: 0;
+}
+.center {
+  text-align: center;
 }

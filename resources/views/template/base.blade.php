@@ -51,6 +51,7 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/creative.js"></script>
+  <script src="js/custom.js"></script>
 
   @yield('js')
   

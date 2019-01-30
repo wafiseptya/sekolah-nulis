@@ -23,4 +23,12 @@ Route::get('/register', function () {
     return view('register');
 });
 
+Route::get('/course', function () {
+    return view('courses');
+});
+
+Route::get('/view_course', function () {
+    return view('view_course');
+});
+
 Route::post('/subscribes', 'SubscribesController@store');
