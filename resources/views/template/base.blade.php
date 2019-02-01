@@ -38,6 +38,7 @@
     
     @yield('content')
     
+    @include('template/footer')
   </body>
 
   <!-- Bootstrap core JavaScript -->

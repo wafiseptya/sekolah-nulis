@@ -82,30 +82,30 @@
     <div class="row">
       <div class="col-lg-3 col-md-6 text-center">
         <div class="service-box mt-5 mx-auto">
-          <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
+          <img class="icon-front mb-3 sr-icons" src="{{asset('img/icons8-video-chat-filled-500.png')}}" alt="">
           <h3 class="mb-4">Guru Berpengalaman</h3>
-          <p class="text-muted mb-0">Belajar langsung dengan penulis - penulis berpengalaman yang sesuai dengan bidangnya.</p>
+          <p class="text-muted mb-0">Belajar bareng penulis berpengalaman yang handal di bidangnya.</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="service-box mt-5 mx-auto">
-          <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
+          <img class="icon-front mb-3 sr-icons" src="{{asset('img/icons8-user-groups-filled-500.png')}}" alt="">
           <h3 class="mb-4">Berbagi di Komunitas</h3>
-          <p class="text-muted mb-0">Berbagi dalam komunitas akan sangat membantumu dalam mengukuhkan skill yang kamu miliki. Kamu bisa membantu dan atau meminta bantuan ketika kamu mengalami kesulitan melalui forum yang disediakan.</p>
+          <p class="text-muted mb-0">Berbagi permasalahan dan karya yang sudah kamu buat dengan rekan komunitas.</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="service-box mt-5 mx-auto">
-          <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
+          <img class="icon-front mb-3 sr-icons" src="{{asset('img/icons8-school-filled-500.png')}}" alt="">
           <h3 class="mb-3">Belajarnya Fleksible</h3>
-          <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
+          <p class="text-muted mb-0">Belajar bisa menyesuaikan dimana saja dan kapan saja sesuai waktu luangmu.</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="service-box mt-5 mx-auto">
-          <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
+          <img class="icon-front mb-3 sr-icons" src="{{asset('img/icons8-sell-filled-500.png')}}" alt="">
           <h3 class="mb-4">Nerbitin & Jualin Bukumu</h3>
-          <p class="text-muted mb-0">You have to make your websites with love these days!</p>
+          <p class="text-muted mb-0">Terbitkan karyamu dan jual di store kami.</p>
         </div>
       </div>
     </div>
